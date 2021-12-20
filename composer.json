@@ -1,0 +1,13 @@
+{
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "authors": [
+        {
+            "name": "Sandip Limbachiya",
+            "email": "sandip2451984@gmail.com"
+        }
+    ]
+}
